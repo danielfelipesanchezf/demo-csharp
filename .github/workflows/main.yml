@@ -18,3 +18,4 @@ jobs:
       run: dotnet build HelloTests --no-restore
     - name: Test
       run: dotnet test HelloTests --no-build --verbosity normal
+      
