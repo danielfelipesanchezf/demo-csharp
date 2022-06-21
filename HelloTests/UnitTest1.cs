@@ -1,7 +1,6 @@
 using Xunit;
 
 namespace HelloTests;
-
 public class UnitTest1
 {
     [Fact]
